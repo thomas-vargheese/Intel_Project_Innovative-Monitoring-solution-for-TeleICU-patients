@@ -1,0 +1,12 @@
+item {
+  id: 1
+  name: 'nurse'
+}
+item {
+  id: 2
+  name: 'doctor'
+}
+item {
+  id: 3
+  name: 'patient'
+}
